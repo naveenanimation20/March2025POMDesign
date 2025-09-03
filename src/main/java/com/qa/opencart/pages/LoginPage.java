@@ -23,7 +23,6 @@ public class LoginPage {
 	private final By forgotPwdLink = By.linkText("Forgotten Password");
 	private final By header = By.tagName("h2");
 	private final By registerLink = By.linkText("Register");
-	private final By shop = By.linkText("Shop");
 
 
 	private final By loginErrorMessg = By.cssSelector("div.alert.alert-danger.alert-dismissible");
