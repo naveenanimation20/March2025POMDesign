@@ -131,10 +131,10 @@
 					<reuseForks>true</reuseForks>
 					
 					
-					<!-- <suiteXmlFiles>
-						 <suiteXmlFile>src/test/resources/testrunners/testng_sanity.xml</suiteXmlFile>
+					<suiteXmlFiles>
+						 <!-- <suiteXmlFile>src/test/resources/testrunners/testng_sanity.xml</suiteXmlFile> -->
 						<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
-					</suiteXmlFiles> -->
+					</suiteXmlFiles>
 					
 					
 					<argLine>
