@@ -17,7 +17,7 @@ public class RegisterPage {
 
 	}
 
-	private final By firstName = By.id("input-firstname11");
+	private final By firstName = By.id("input-firstname");
 	private final By lastName = By.id("input-lastname");
 	private final By email = By.id("input-email");
 	private final By telephone = By.id("input-telephone");
