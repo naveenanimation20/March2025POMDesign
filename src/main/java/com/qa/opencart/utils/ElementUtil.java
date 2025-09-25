@@ -95,6 +95,12 @@ public class ElementUtil {
 		}
 	}
 
+	
+	/**
+	 * checking the element is enabled for the given by locator
+	 * @param locator
+	 * @return returns a boolean value
+	 */
 	public boolean isElementEnabled(By locator) {
 		try {
 			return getElement(locator).isEnabled();
